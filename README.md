@@ -25,7 +25,8 @@ Banking App UI to practice in Jetpack Compose components
 <br>
 
 ## Theme Changing
-<img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/838c9dee-27ee-469f-934f-e6f08f34115a">
+<img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/c554aa20-a710-42de-a340-caece442c9cd">
+<img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/efcef85a-b497-4b61-9e18-6953acba6f98">
 
 <br>
 
