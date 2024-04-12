@@ -34,7 +34,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-
+                    HomeScreen()
                 }
             }
         }
@@ -52,7 +52,6 @@ class MainActivity : ComponentActivity() {
     }
 }
 
-@OptIn(ExperimentalMaterial3Api::class)
 @Preview
 @Composable
 fun HomeScreen() {
@@ -61,16 +60,15 @@ fun HomeScreen() {
             BottomNavigationBar()
         }
     ){padding ->
-        Column(modifier = Modifier.fillMaxSize().padding(padding)){
-
+        Column(modifier = Modifier
+            .fillMaxSize()
+            .padding(padding)){
+            WalletSection()
+            CardsSection()
+            Spacer(modifier = Modifier.height(16.dp))
+            FinanceSection()
+            CurrenciesSection()
         }
-         
-//        WalletSection()
-//        CardsSection()
-        Spacer(modifier = Modifier.height(16.dp))
-//        FinanceSection()
-//        CurrenciesSection()
-
     }
 }
 
