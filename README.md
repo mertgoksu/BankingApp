@@ -1,5 +1,5 @@
 # BankingAppUI
-Banking App UI to practice in Jetpack Compose components
+Banking App UI to practice in Jetpack Compose
 <br>
 
 ## Features
