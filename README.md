@@ -13,20 +13,23 @@ Banking App UI to practice in Jetpack Compose
 <br>
 
 ## Screenshots
-<img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/ab54a95e-fa89-4c0d-88e2-e30ab800c83e">
-<img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/d2a688bc-b849-4879-a623-d2606666635d">
+|   Light Theme   |    Light Theme    |
+|----------|:-------------:|
+| <img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/ab54a95e-fa89-4c0d-88e2-e30ab800c83e"> | <img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/d2a688bc-b849-4879-a623-d2606666635d"> |
 
 <br>
 
 ## Movements
-<img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/172ddeb6-cd74-459e-b353-5a90edee9637">
-<img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/1bfb19b9-793f-4f4c-a626-bdfffcd41e07">
+|   Light Theme   |    Light Theme    |
+|----------|:-------------:|
+| <img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/172ddeb6-cd74-459e-b353-5a90edee9637"> | <img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/1bfb19b9-793f-4f4c-a626-bdfffcd41e07"> |
 
 <br>
 
 ## Theme Changing
-<img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/c554aa20-a710-42de-a340-caece442c9cd">
-<img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/efcef85a-b497-4b61-9e18-6953acba6f98">
+|   Light Theme   |    Light Theme    |
+|----------|:-------------:|
+| <img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/c554aa20-a710-42de-a340-caece442c9cd"> | <img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/efcef85a-b497-4b61-9e18-6953acba6f98"> |
 
 <br>
 
