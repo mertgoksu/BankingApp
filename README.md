@@ -14,7 +14,7 @@ Banking App UI to practice in Jetpack Compose
 
 ## Screenshots
 |   Light Theme   |    Light Theme    |
-|----------|:-------------:|
+|----------|-------------|
 | <img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/ab54a95e-fa89-4c0d-88e2-e30ab800c83e"> | <img width="322" alt="1" src="https://github.com/mertgoksu/BankingApp/assets/119433132/d2a688bc-b849-4879-a623-d2606666635d"> |
 
 <br>
